@@ -1,0 +1,16 @@
+#div1 {
+  width: 250px;
+  height: 250px;
+  background-color: green;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+button {
+  display: block;
+  width: 200px;
+  height: 75px;
+  background-color: beige;
+}
+#button2 {
+  margin-top: 100px;
+}
